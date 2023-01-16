@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/13811020/error-class-x-is-public-should-be-d
 
 In all great attempt on your work, the more you practice the more progress you will see. According to your code I can see that you do have an understanding of programming and I would advice that you do more of problem solving.I suggest that you take a look at https://google.github.io/styleguide/javaguide.html it might come into good use when it comes to your coding style.
 
-Looking forward to see the updated version.
+Looking forward to see the updated version. Take care.
 
 
 
